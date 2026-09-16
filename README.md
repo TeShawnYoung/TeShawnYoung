@@ -4,7 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🌍 Azure Sentinel Geographic Security Intelligence
 - **🌍 [Inbound Authentication Origins](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Inbound-Authentication-Origins)
-- **🌐 Outbound Connections
+- **🌐 Outbound Connections(https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Outbound-Connections)
 - **🚨 Data Exfiltration
 - **🛡️ Inbound Threat Intelligence
 - **🔐 Entra ID Authentication
