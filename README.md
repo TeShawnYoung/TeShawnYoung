@@ -4,13 +4,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🌍 Azure Sentinel Security Analytics & Visualization
 - **☁️ [Azure Resource Activity](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Azure-Resource-Creation-Modifications)**
-- **🚨 [Data Exfiltration](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Data-Exfiltration)
-- **🔐 [Entra ID Failuers](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Entra-ID-Authentication-Failures)
-- **🔐 [Entra ID Failuers](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Entra-ID-Authentication-Success)
-- **🌍 [Inbound Authentication Origins](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Inbound-Authentication-Origins)
-- **🛡️ [Inbound Threat Intelligence](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Inbound-Threat-Intelligence)
-- **🌐 [Outbound Connections](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Outbound-Connections)
-- **🖥️ [VM Authentication](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/VM-Authentication-Failures)
+- **🚨 [Data Exfiltration](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Data-Exfiltration)**
+- **🔐 [Entra ID Failuers](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Entra-ID-Authentication-Failures)**
+- **🔐 [Entra ID Failuers](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Entra-ID-Authentication-Success)**
+- **🌍 [Inbound Authentication Origins](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Inbound-Authentication-Origins)**
+- **🛡️ [Inbound Threat Intelligence](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Inbound-Threat-Intelligence)**
+- **🌐 [Outbound Connections](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Outbound-Connections)**
+- **🖥️ [VM Authentication](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/VM-Authentication-Failures)**
 
 ## ⚠️ Vulnerability Management Projects
 
