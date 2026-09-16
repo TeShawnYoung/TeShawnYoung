@@ -1,6 +1,8 @@
 # <a href="https://www.linkedin.com/in/teshawn-young-tech/">Te'Shawn Young</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I am a Technical Support Engineer and cybersecurity-focused professional passionate about securing network infrastructure, analyzing security telemetry, and strengthening system resilience. I thrive on diving deep into logs and endpoint data to isolate indicators of compromise, coordinating incident response efforts, and remediating vulnerabilities through STIG compliance and hardening practices.
+
+With a strong foundation in network troubleshooting, Azure environments, and endpoint security tooling, I specialize in transforming high-volume security data into clear, actionable detection and response insights.
 
 ## 🌍 Azure Sentinel Security Analytics & Visualization
 - **☁️ [Azure Resource Activity](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization/tree/main/LABS/Azure-Resource-Creation-Modifications)**
