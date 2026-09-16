@@ -7,12 +7,10 @@ With a strong foundation in network troubleshooting, Azure environments, and end
 ## 🌍 Azure Sentinel Security Analytics & Visualization <a href="https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="20" /></a>
 - **☁️ [Azure Resource Activity](https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization/tree/main/Projects/Azure-Resource-Creation-Modifications)**
 - **🚨 [Data Exfiltration](https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization/tree/main/Projects/Data-Exfiltration)**
-- **🔐 [Entra ID Failures](https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization/blob/main/Projects/Entra-ID-Authentication-Failures)**
-- **🔐 [Entra ID Success](https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization/blob/main/Projects/Entra-ID-Authentication-Success)**
+- **🔐 Azure Sentinel (SIEM) Live Threat & Operational Data Visualization**
 - **🌍 [Inbound Authentication Origins](https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization/blob/main/Projects/Inbound-Authentication-Origins)**
 - **🛡️ [Inbound Threat Intelligence](https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization/blob/main/Projects/Inbound-Threat-Intelligence)**
 - **🌐 [Outbound Connections](https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization/blob/main/Projects/Outbound-Connections)**
-- **🖥️ [VM Authentication](https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization/blob/main/Projects/VM-Authentication-Failures)**
 
 ## ⚠️ Vulnerability Management Projects <a href="https://github.com/TeShawnYoung/Vulnerability-Management-Program"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="20" /></a>
 
