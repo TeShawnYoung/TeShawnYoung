@@ -16,8 +16,8 @@ With a strong foundation in network troubleshooting, Azure environments, and end
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/TeShawnYoung/Vulnerability-Management-Program/tree/main/Projects/Programmatic%20Vulnerability%20Remediations%20(PowerShell%2C%20BASH%2C%20%26%20Shell%20Commands))**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/TeShawnYoung/Vulnerability-Management-Program/tree/main/Projects/Vulnerability%20Management%20Program%20Implementation)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/TeShawnYoung/Vulnerability-Management-Program/tree/main/Projects/Programmatic%20Vulnerability%20Remediations%20(PowerShell%2C%20BASH%2C%20%26%20Shell%20Commands))**
+- **[Vulnerability Management Program Implementation](https://github.com/TeShawnYoung/Vulnerability-Management-Program/tree/main/Projects/Vulnerability%20Management%20Program%20Implementation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
