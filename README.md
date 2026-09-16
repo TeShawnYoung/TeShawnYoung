@@ -4,7 +4,7 @@ I am a Technical Support Engineer and cybersecurity-focused professional passion
 
 With a strong foundation in network troubleshooting, Azure environments, and endpoint security tooling, I specialize in transforming high-volume security data into clear, actionable detection and response insights.
 
-## 🌍 Azure Sentinel Security Analytics & Visualization
+## 🌍 Azure Sentinel Security Analytics & Visualization <a href="https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="20" /></a>
 - **☁️ [Azure Resource Activity](https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization/tree/main/Projects/Azure-Resource-Creation-Modifications)**
 - **🚨 [Data Exfiltration](https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization/tree/main/Projects/Data-Exfiltration)**
 - **🔐 [Entra ID Failures](https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization/blob/main/Projects/Entra-ID-Authentication-Failures)**
