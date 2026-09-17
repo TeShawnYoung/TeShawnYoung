@@ -4,7 +4,7 @@ I am a Technical Support Engineer and cybersecurity-focused professional passion
 
 With a strong foundation in network troubleshooting, Azure environments, and endpoint security tooling, I specialize in transforming high-volume security data into clear, actionable detection and response insights.
 
-## 🌍 Azure Sentinel Security Analytics & Visualization <a href="https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="20" /></a>
+## 🌍 Azure Sentinel Security Analytics & Visualization <a href="https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization"><img src="https://img.shields.io/badge/-555555?style=flat&logo=github&logoColor=white" height="20"/></a>
 
 - **☁️ [Azure Resource Activity](https://github.com/TeShawnYoung/Azure-Resource-Activity)**
 - **🚨 [Data Exfiltration](https://github.com/TeShawnYoung/Data-Exfiltration)**
@@ -13,12 +13,12 @@ With a strong foundation in network troubleshooting, Azure environments, and end
 - **🛡️ [Inbound Threat Intelligence](https://github.com/TeShawnYoung/Inbound-Threat-Intelligence)**
 - **🌐 [Outbound Connections](https://github.com/TeShawnYoung/Outbound-Connections)**
 
-## ⚠️ Vulnerability Management Projects <a href="https://github.com/TeShawnYoung/Vulnerability-Management-Program"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="20" /></a>
+## ⚠️ Vulnerability Management Projects <a href="https://github.com/TeShawnYoung/Vulnerability-Management-Program"><img src="https://img.shields.io/badge/-555555?style=flat&logo=github&logoColor=white" height="20"/></a>
 
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/TeShawnYoung/Programmatic-Vulnerability-Remediations-PowerShell-BASH-Shell-Commands-)**
 - **[Vulnerability Management Program Implementation](https://github.com/TeShawnYoung/Vulnerability-Management-Program-Implementation)**
 
-## 🚨 Threat Hunting and Security Operations <a href="https://github.com/TeShawnYoung/threat-hunting-scenario-tor-"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="20" /></a>
+## 🚨 Threat Hunting and Security Operations <a href="https://github.com/TeShawnYoung/threat-hunting-scenario-tor-"><img src="https://img.shields.io/badge/-555555?style=flat&logo=github&logoColor=white" height="20"/></a>
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TeShawnYoung/threat-hunting-scenario-tor-/tree/main)**
 
