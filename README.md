@@ -18,7 +18,7 @@ With a strong foundation in network troubleshooting, Azure environments, and end
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/TeShawnYoung/Programmatic-Vulnerability-Remediations-PowerShell-BASH-Shell-Commands-)**
 - **[Vulnerability Management Program Implementation](https://github.com/TeShawnYoung/Vulnerability-Management-Program-Implementation)**
 
-## 🚨 Threat Hunting and Security Operations <a href="https://github.com/TeShawnYoung/threat-hunting-scenario-tor-"><img src="https://img.shields.io/badge/-555555?style=flat&logo=github&logoColor=white" height="20"/></a>
+## 🚨 Threat Hunting and Security Operations <a href="https://github.com/TeShawnYoung/Threat-Hunting-and-Security-Operations--MAJOR/blob/main/README.md"><img src="https://img.shields.io/badge/-555555?style=flat&logo=github&logoColor=white" height="20"/></a>
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TeShawnYoung/threat-hunting-scenario-tor-/tree/main)**
 
