@@ -8,7 +8,7 @@ With a strong foundation in network troubleshooting, Azure environments, and end
 
 - **☁️ [Azure Resource Activity](https://github.com/TeShawnYoung/Azure-Resource-Activity)**
 - **🚨 [Data Exfiltration](https://github.com/TeShawnYoung/Data-Exfiltration)**
-- **🔐 [Identity & Endpoint Authentication Monitoring](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization)**
+- **🔐 [Azure Sentinel (SIEM) Identity & Endpoint Authentication Monitoring](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Live-Threat-Operational-Data-Visualization)**
 - **🌍 [Inbound Authentication Origins](https://github.com/TeShawnYoung/Inbound-Authentication-Origins)**
 - **🛡️ [Inbound Threat Intelligence](https://github.com/TeShawnYoung/Inbound-Threat-Intelligence)**
 - **🌐 [Outbound Connections](https://github.com/TeShawnYoung/Outbound-Connections)**
