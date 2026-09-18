@@ -21,6 +21,9 @@ With a strong foundation in network troubleshooting, Azure environments, and end
 ## 🚨 Threat Hunting and Security Operations <a href="https://github.com/TeShawnYoung/Threat-Hunting-and-Security-Operations--MAJOR/blob/main/README.md"><img src="https://img.shields.io/badge/-555555?style=flat&logo=github&logoColor=white" height="20"/></a>
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/TeShawnYoung/threat-hunting-scenario-tor-/tree/main)**
+- **[Suspected Data Exfiltration from PIP'd Employee](https://github.com/TeShawnYoung/Suspected-Data-Exfiltration-from-PIPd-Employee)**
+- **[Devices Accidentally Exposed to the Internet](https://github.com/TeShawnYoung/Devices-Accidentally-Exposed-to-the-Internet)**
+- **[Sudden Network Slowdowns](https://github.com/TeShawnYoung/Sudden-Network-Slowdowns)**
 
 <hr/>
 
