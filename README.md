@@ -12,7 +12,7 @@ With a strong foundation in network troubleshooting, Azure environments, and end
 - **🛡️ [Inbound Threat Intelligence](https://github.com/TeShawnYoung/Inbound-Threat-Intelligence)**
 - **🌐 [Outbound Connections](https://github.com/TeShawnYoung/Outbound-Connections)**
 
-## ⚠️ Vulnerability Management Projects <a href="https://github.com/TeShawnYoung/Vulnerability-Management-Program"><img src="https://img.shields.io/badge/-555555?style=flat&logo=github&logoColor=white" height="20"/></a>
+## ⚠️ Vulnerability Management <a href="https://github.com/TeShawnYoung/Vulnerability-Management-Program"><img src="https://img.shields.io/badge/-555555?style=flat&logo=github&logoColor=white" height="20"/></a>
 
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/TeShawnYoung/Programmatic-Vulnerability-Remediations-PowerShell-BASH-Shell-Commands-)**
 - **[Vulnerability Management Program Implementation](https://github.com/TeShawnYoung/Vulnerability-Management-Program-Implementation)**
