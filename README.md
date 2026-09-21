@@ -7,7 +7,7 @@ With a strong foundation in network troubleshooting, Azure environments, and end
 ## 🌍 Azure Sentinel Security Analytics & Visualization <a href="https://github.com/TeShawnYoung/-Azure-Sentinel-Security-Analytics-Visualization"><img src="https://img.shields.io/badge/-555555?style=flat&logo=github&logoColor=white" height="20"/></a>
 
 - **🚨 [Data Exfiltration](https://github.com/TeShawnYoung/Data-Exfiltration)**
-- **🔐 [Identity & Endpoint Authentication Monitoring](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Identity-Endpoint-Authentication-Monitoring)**
+- **🔐 [Azure Sentinel (SIEM) Identity & Endpoint Authentication Monitoring](https://github.com/TeShawnYoung/Azure-Sentinel-SIEM-Identity-Endpoint-Authentication-Monitoring)**
 - **🌍 [Inbound Authentication Origins](https://github.com/TeShawnYoung/Inbound-Authentication-Origins)**
 - **🛡️ [Inbound Threat Intelligence](https://github.com/TeShawnYoung/Inbound-Threat-Intelligence)**
 - **🌐 [Outbound Connections](https://github.com/TeShawnYoung/Outbound-Connections)**
