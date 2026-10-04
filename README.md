@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/teshawn-young-tech/">Te'Shawn Young</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I am a Technical Support Engineer and cybersecurity-focused professional passionate about securing network infrastructure, analyzing security telemetry, and strengthening system resilience. I thrive on diving deep into logs and endpoint data to isolate indicators of compromise, coordinating incident response efforts, and remediating vulnerabilities through STIG compliance and hardening practices.
+I am a Technical Support Engineer and cybersecurity-focused professional passionate about securing network infrastructure, analyzing security telemetry, and strengthening system resilience. I thrive on diving deep into logs and endpoint data to isolate indicators of compromise, practicing incident response in lab environments, and remediating vulnerabilities through STIG compliance and hardening practices.
 
 With a strong foundation in network troubleshooting, Azure environments, and endpoint security tooling, I specialize in transforming high-volume security data into clear, actionable detection and response insights.
 
