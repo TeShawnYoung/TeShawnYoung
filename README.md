@@ -23,7 +23,9 @@ The projects below are lab work in Microsoft Sentinel, PowerShell, and Bash. I'm
 - **[Devices Accidentally Exposed to the Internet](https://github.com/TeShawnYoung/Devices-Accidentally-Exposed-to-the-Internet)**
 - **[Sudden Network Slowdowns](https://github.com/TeShawnYoung/Sudden-Network-Slowdowns)**
 
-## Threat Hunting CTFs <a href="https://github.com/TeShawnYoung/Threat-Hunting-CTFs"><img src="https://img.shields.io/badge/-555555?style=flat&logo=github&logoColor=white" height="20"/></a>
+## 🕵️ Threat Hunting CTFs <a href="https://github.com/TeShawnYoung/Threat-Hunting-CTFs"><img src="https://img.shields.io/badge/-555555?style=flat&logo=github&logoColor=white" height="20"/></a>
+
+- **[Threat-Hunt-CTF-Report-Password-Spray-to-Lateral-Movement-NPT-WS01-](https://github.com/TeShawnYoung/Threat-Hunt-CTF-Report-Password-Spray-to-Lateral-Movement-NPT-WS01-)**
 
 <hr/>
 
